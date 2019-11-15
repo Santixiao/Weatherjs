@@ -1,0 +1,27 @@
+body {
+  background-color: rgba(245, 245, 245, 0.87);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin: 100px;
+}
+#inputs {
+  background-color: tomato;
+  padding: 15px;
+  border-radius: 5px;
+  border: 3px solid rgb(253, 79, 49);
+}
+input {
+  padding: 8px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: rgb(224, 221, 221);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+h1 {
+  color: tomato;
+  text-shadow: -1px 0 rgb(253, 79, 49), 0 1px rgb(253, 79, 49),
+    1px 0 rgb(253, 79, 49), 0 -1px rgb(253, 79, 49);
+}
